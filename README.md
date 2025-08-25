@@ -1,7 +1,7 @@
 # Monitoring System
 
 ## 📌 Description
-Ce projet utilise un **Raspberry Pi** comme centre de monitoring pour un **hangar à poules**.  
+Ce projet utilise un **Raspberry Pi** comme centre de monitoring pour un **hangar à poules** et autres.  
 Le Raspberry Pi agit comme **point d’accès Wi-Fi** afin de centraliser toutes les données envoyées par les capteurs répartis dans le hangar.  
 
 Les capteurs mesurent en temps réel plusieurs paramètres environnementaux essentiels au bien-être des poules :

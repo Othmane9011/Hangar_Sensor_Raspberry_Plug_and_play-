@@ -1,4 +1,4 @@
-# 🐔 Poultry Monitoring System
+# Monitoring System
 
 ## 📌 Description
 Ce projet utilise un **Raspberry Pi** comme centre de monitoring pour un **hangar à poules**.  
